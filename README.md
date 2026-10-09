@@ -1,6 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=go0425&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go0425" />
-</a>
+### Hi, I'm Go 👋
+
+Mobile Engineer at Mercari.
+I work on iOS and Android apps with Swift and Kotlin.
+
+### Tech Stack
+- **Languages:** Swift, Kotlin
+- **Platforms:** iOS, Android
